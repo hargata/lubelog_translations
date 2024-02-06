@@ -226,5 +226,18 @@
 	"Issued_To": "Emitido a",
 	"Users": "Utilizadores",
 	"Email": "Correio eletrónico",
-	"Is_Admin": "É Administrador"
+	"Is_Admin": "É Administrador",	
+	"An_error_has_occurred,_please_try_again_later": "Ocorreu um erro, tente novamente mais tarde",
+	"Edit_Note": "Editar nota",
+	"Password": "Palavra-passe",
+	"Remember_Me": "Lembrar-se de mim",
+	"Login": "Iniciar sessão",
+	"Forgot_Password": "Esqueci-me da palavra-passe",
+	"Register": "Registar",
+	"Request": "Pedir",
+	"I_Have_a_Token": "Eu tenho um Token",
+	"Back_to_Login": "Voltar ao Início de Sessão",
+	"Email_Address": "Endereço de correio eletrónico",
+	"New_Password": "Nova palavra-passe",
+	"Reset_Password": "Repor a palavra-passe"
 }
