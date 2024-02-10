@@ -249,5 +249,7 @@
    "Welcome_to_AutoShop":"Vítejte v AutoShopu",
    "Welcome_to_AutoShop,_Please_register_if_you_don't_have_an_account":"Vítejte v AutoShopu. Přihlaste se prosím, pokud ještě nemáte účet.",
    "Welcome_to_the_Sample_App!":"Vítejte ve vzorové aplikaci!",
+   "Year":"Rok",
+   "Year(must_be_after_1900)":"Rok výroby(Musí být po roce 1900)",
    "YTD":"Od začátku roku"
 }
