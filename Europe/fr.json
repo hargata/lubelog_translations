@@ -162,7 +162,7 @@
     "Fuel_Consumption": "Carburant consommé",
     "Amount_of_gas_refueled": "Quantité d'essence rajouté",
     "Is_Filled_To_Full": "Réservoir plein",
-    "Missed_Fuel_Up(Skip_MPG_Calculation)": "Oublie de remplissage(Ne pas calculer la consommation)",
+    "Missed_Fuel_Up(Skip_MPG_Calculation)": "Oubli de remplissage(Ne pas calculer la consommation)",
     "Cost_of_gas_refueled": "Coût de l'essence rajoutée",
     "Unit": "Unité",
     "#_of_Tax_Records": "# de Relevés Fiscaux",
