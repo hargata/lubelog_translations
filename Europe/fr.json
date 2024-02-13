@@ -34,7 +34,7 @@
     "Tax": "Charge",
     "Reminders": "Rappels",
     "Backups": "Sauvegardes",
-    "Make": "Sauvegarder",
+    "Make": "Marque",
     "Restore": "Restaurer",
     "About": "À Propos",
     "Add_New_Vehicle": "Ajouter un nouveau véhicule",
@@ -257,5 +257,6 @@
     "To_Postgres": "Vers Postgres",
     "From_Postgres": "Depuis Postgres",
     "Import_To_Postgres": "Importation vers Postgres",
-    "Export_From_Postgres": "Exportation depuis Postgres"
+    "Export_From_Postgres": "Exportation depuis Postgres",
+    "Create": "Créer"
 }
