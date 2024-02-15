@@ -258,5 +258,14 @@
     "From_Postgres": "Depuis Postgres",
     "Import_To_Postgres": "Importation vers Postgres",
     "Export_From_Postgres": "Exportation depuis Postgres",
-    "Create": "Créer"
+    "Create": "Créer",
+    "Manage_Extra_Fields":"Gérer les Champs Supplémentaires",
+    "Add/Remove_Extra_Fields":"Ajouter/Supprimer des Champs Supplémentaires",
+    "Name":"Nom",
+    "Required":"Obligatoire",
+    "Add_New_Field": "Ajouter un Nouveau Champ",
+    "Close": "Fermer",
+    "Calendar": "Calendrier",
+    "View_Reminder": "Voir le Rappel",
+    "Mark_as_Done": "Marquer comme Terminé"
 }
