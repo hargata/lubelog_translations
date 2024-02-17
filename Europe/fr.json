@@ -234,7 +234,7 @@
     "Login": "Connexion",
     "Forgot_Password": "Mot de passe oublié",
     "Register": "Créer un compte",
-    "Request": "Requête",
+    "Request": "Demander",
     "I_Have_a_Token": "J'ai un jeton",
     "Back_to_Login": "Retour à la connexion",
     "Email_Address": "Adresse email",
@@ -267,5 +267,8 @@
     "Close": "Fermer",
     "Calendar": "Calendrier",
     "View_Reminder": "Voir le Rappel",
-    "Mark_as_Done": "Marquer comme Terminé"
+    "Mark_as_Done": "Marquer comme Terminé",
+    "Login_via": "Se Connecter avec",
+    "Distance_Traveled_by_Month": "Distance Parcourue par Mois",
+    "Expenses_and_Distance_Traveled_by_Month": "Dépenses et Distance Parcourue par Mois"
 }
