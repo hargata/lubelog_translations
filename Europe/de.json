@@ -291,5 +291,21 @@
     "Whichever_comes_first": "Was zuerst eintritt",
     "Manage_Languages": "Sprachen verwalten",
     "Is_Admin": "Ist Administrator",
-    "Email": "E-Mail"
+    "Email": "E-Mail",
+    "Server-wide_Settings": "Serverweite Einstellungen",
+    "Extra_Fields": "Zusätzliche Felder",
+    "Hide_Sold_Vehicles": "Verkaufte Fahrzeuge ausblenden",
+    "Notes(use_---_to_clear_all_existing_notes)": "Notizen („---“ verwenden, um alle existierenden Notizen zu leeren)",
+    "Edit": "Bearbeiten",
+    "Search": "Suchen",
+    "Delta": "Differenz",
+    "Vehicle": "Fahrzeug",
+    "Select_Reminder": "Erinnerung auswählen",
+    "Purchased_Date(optional)": "Kaufdatum (optional)",
+    "Purchased_Date": "Kaufdatum",
+    "Sold_Date(optional)": "Verkaufsdatum (optional)",
+    "Sold_Date": "Verkaufsdatum",
+    "SOLD": "VERKAUFT",
+    "Days": "Tage",
+    "Statistics": "Statistik"
 }
