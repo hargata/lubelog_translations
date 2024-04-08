@@ -339,5 +339,7 @@
     "Appreciation": "Appréciation",
     "Search_by_Keyword(Case_Sensitive)": "Recherche par Mot-clé(Sensible à la Casse)",
     "Incremental_Search": "Recherche Incrémentale",
-    "Unsaved_Changes": "Modifications non Sauvegardées"
+    "Unsaved_Changes": "Modifications non Sauvegardées",
+    "Edit_Plan_Record_Template": "Modifier le Modèle de Tâche",
+    "No_Data_Found": "Aucune Donnée Trouvée"
 }
