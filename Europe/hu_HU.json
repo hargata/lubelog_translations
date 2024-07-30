@@ -54,9 +54,9 @@
   "Service": "Szevíz",
   "Expenses_by_Month": "Havi költések",
   "As_of_Today": "A mai napig",
-  "+30_Days": "+30 nap",
-  "+60_Days": "+60 nap",
-  "+90_Days": "+90 nap",
+  "\u002B30_Days":"\u002B30 nap",
+  "\u002B60_Days":"\u002B60 nap",
+  "\u002B90_Days":"\u002B90 nap",
   "Not_Urgent": "Nem sürgős",
   "Urgent": "Sürgős",
   "Very_Urgent": "Nagyon sürgős",
@@ -341,5 +341,12 @@
   "Incremental_Search": "Inkrementális keresés",
   "Unsaved_Changes": "Nem mentett változások",
   "Edit_Plan_Record_Template": "Ütemezett feladat sablon szerkesztése",
-  "No_Data_Found": "Nem található adat"
+  "No_Data_Found": "Nem található adat",
+  "Sponsors": "Szponzorok",
+  "All_Time": "Évek összesítve",
+  "Metrics": "Metrikák",
+  "gallons": "gallon",
+  "miles": "mérföld",
+  "liters": "liter",
+  "kilometers": "kilométer"
 }
