@@ -239,5 +239,9 @@
     "Back_to_Login": "Torna al Login",
     "Email_Address": "Indirizzo Email",
     "New_Password": "Nuova Password",
-    "Reset_Password": "Reimposta Password"
+    "Reset_Password": "Reimposta Password",
+    "Hide_Sold_Vehicles": "Nascondi Veicoli Venduti",
+    "Shop_Supplies": "Acquista Ricambi",
+    "Show_Extra_Field_Columns": "Mostra Colonna Campo Extra",
+    "Enabling_this_may_cause_performance_issues": "Abilitando questo parametro potrebbero esserci problemi di performance"
 }
