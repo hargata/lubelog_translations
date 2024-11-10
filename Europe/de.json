@@ -354,7 +354,8 @@
     "Year": "Jahr",
     "Year(must_be_after_1900)": "Jahr (muss nach 1900 sein)",
     "No_Vehicles_Available": "Keine Fahrzeuge verfügbar",
-    "Use_this_tool_to_migrate_data_between_LiteDB_and_Postgres": "Dieses Tool dient der Datenmigration zwischen LiteDB and Postgres",
+    "Use_this_tool_to_migrate_data_between_LiteDB_and_Postgres": "Dieses Tool dient der Datenmigration zwischen LiteDB und Postgres",
+
     "Note_that_it_is_recommended_that_the_Postgres_DB_is_empty_when_importing_from_LiteDB_to_prevent_primary_key_errors": "Für den Import der LiteDB ist es empfohlen eine leere Postgres DB zu verwenden, um Primärschlüsselfehler zu vermeiden.",
     "No_Recurring_Reminders_Found": "Keine wiederkehrenden Erinnerungen gefunden"
 }
