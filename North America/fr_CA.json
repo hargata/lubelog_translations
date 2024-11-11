@@ -260,7 +260,6 @@
     "Export_From_Postgres": "Exportation depuis Postgres",
     "Create": "Créer",
     "Manage_Extra_Fields": "Gérer les champs supplémentaires",
-    "Add/Remove_Extra_Fields": "Ajouter/Supprimer des champs supplémentaires",
     "Name": "Nom",
     "Required": "Obligatoire",
     "Add_New_Field": "Ajouter un nouveau champ",

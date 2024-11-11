@@ -260,7 +260,6 @@
   "Export_From_Postgres": "导出自Postgres",
   "Create": "创建",
   "Manage_Extra_Fields": "管理额外字段",
-  "Add/Remove_Extra_Fields": "添加/删除额外字段",
   "Name": "名称",
   "Required": "必填项",
   "Add_New_Field": "添加新字段",
