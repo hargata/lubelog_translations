@@ -244,7 +244,7 @@
     "Notes": "Notizen",
     "Notes(optional)": "Notizen (optional)",
     "Notes(use_---_to_clear_all_existing_notes)": "Notizen („---“ verwenden, um alle existierenden Notizen zu leeren)",
-    "Note_that_it_is_recommended_that_the_Postgres_DB_is_empty_when_importing_from_LiteDB_to_prevent_primary_key_errors": "Beachten Sie, dass es empfohlen wird, dass die Postgres-Datenbank leer ist, wenn von LiteDB importiert wird, um Primärschlüsselfehler zu vermeiden.",
+    "Note_that_it_is_recommended_that_the_Postgres_DB_is_empty_when_importing_from_LiteDB_to_prevent_primary_key_errors": "Um Primärschlüsselfehler zu vermeiden, wird empfohlen,  eine leere Postgres DB für den Import einer LiteDB zu verwenden.",
     "Notify": "Benachrichtigen",
     "Not_Urgent": "Nicht dringend",
     "No_Vehicles_Available": "Keine Fahrzeuge verfügbar",
