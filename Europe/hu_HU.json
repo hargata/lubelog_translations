@@ -260,7 +260,6 @@
   "Export_From_Postgres": "Exportálás Postgresbe",
   "Create": "Létrehozás",
   "Manage_Extra_Fields": "Egyedi mezők kezelése",
-  "Add/Remove_Extra_Fields": "Egyedi mezők hozzáadása/eltávolítása",
   "Name": "Név",
   "Required": "Kötelező",
   "Add_New_Field": "Új mező hozzáadása",
