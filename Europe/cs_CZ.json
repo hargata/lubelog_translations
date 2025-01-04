@@ -218,7 +218,6 @@
    "Supplier":"Dodavatel",
    "Supplier/Vendor":"Dodavatel/prodejce",
    "Supplies":"Zásoby",
-   "Supplies_are_requisitioned_immediately_after_the_record_is_created_and_cannot_be_modified._If_you_have_incorrectly_entered_the_amount_you_needed_you_will_need_to_correct_it_in_the_Supplies_tab.":"Zásoby jsou vyžádány okamžitě po vytvoření záznamu a nelze je upravit. Pokud jste zadali nesprávné množství, musíte ho opravit na kartě Zásoby.",
    "Tags(optional)":"Štítky (volitelné)",
    "Tax":"Daň",
    "Taxes":"Daně",
