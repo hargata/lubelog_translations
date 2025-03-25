@@ -1,7 +1,7 @@
 {
   "Africa": [],
   "Asia": ["zh_CN"],
-  "Europe": ["cs_CZ","de","en_GB","es_ES","fr","hu_HU","it_IT","nl","no","pl_PL","pt_PT","sl","uk"],
+  "Europe": ["ro_RO","cs_CZ","de","en_GB","es_ES","fr","hu_HU","it_IT","nl","no","pl_PL","pt_PT","sl","uk"],
   "NorthAmerica": ["fr_CA"],
   "SouthAmerica": ["es_AR","pt_BR"],
   "Oceania": ["en_AU"]
