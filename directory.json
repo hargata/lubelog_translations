@@ -3,6 +3,6 @@
   "Asia": ["zh_CN", "th_TH"],
   "Europe": ["ro_RO","cs_CZ","de","en_GB","es_ES","fr","hu_HU","it_IT","nl","no","pl_PL","pt_PT","sl","uk","ru","sv","bg"],
   "NorthAmerica": ["fr_CA"],
-  "SouthAmerica": ["es_AR","pt_BR"],
+  "SouthAmerica": ["es_AR","es_CL","pt_BR"],
   "Oceania": ["en_AU"]
 }
